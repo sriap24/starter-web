@@ -4,10 +4,14 @@ This repository is for showing how Git and GitHub work.This shows the workflow f
 
 ## Introduction
 
+This shows how to use both GIT and GITHUB together
+
 ##Deployment
+
+This is a simple web project,deployment can be on any web server or even local file system
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Main purpose is to provide simple examples.
 
 ## How to Contribute
