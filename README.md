@@ -16,6 +16,7 @@ Main purpose is to provide simple examples.
 
 ## How to Contribute
 
+Please fork this repo and then issue PULL Request for Review.
 
 
 ### CopyRight
