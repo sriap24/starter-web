@@ -15,3 +15,8 @@ This is a simple web project,deployment can be on any web server or even local f
 Main purpose is to provide simple examples.
 
 ## How to Contribute
+
+
+
+### CopyRight
+2020 GIT Training
